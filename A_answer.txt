@@ -1,0 +1,3 @@
+1.	Với các input có độ phức tạp và lớn thì chương trình chạy chậm hơn
+2.	Sắp xếp nổi bọt chưa tối ưu và còn tốn nhiều thời gian vf dung lượng để hoạt động
+3.	Nên sử dụng các hàm có sẵn trong thư viện như hàm sort để có thể tải các in put lớn hơn
